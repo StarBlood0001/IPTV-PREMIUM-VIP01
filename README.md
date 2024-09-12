@@ -11848,5 +11848,5 @@ http://www.hallmark.com/live
 
 https://cdn87.theus6tv.tk/cable/hallmark.m3u8
 
-
+http://livex.pop-app.live/s4n/poplive/ch317/playlist.m3u8
 
