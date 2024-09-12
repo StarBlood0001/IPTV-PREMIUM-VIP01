@@ -11838,3 +11838,15 @@ https://cdn.footballii.ir/hls2/persianas.m3u8
 
 #EXTINF:-1,Polsat SPORT 1 🇵🇱
 http://178.219.128.68:64889/POLSSPORHD
+
+######======#####playlisttambahan######=====######
+
+https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
+
+https://www.watchhallmarktv.com/hclive.html?a=1
+http://www.hallmark.com/live
+
+https://cdn87.theus6tv.tk/cable/hallmark.m3u8
+
+
+
