@@ -14319,7 +14319,7 @@ https://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227948/32
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SINGAPORE
+//Collected by @arjunfiqriadrillah01 menampilkan playlist >>> SINGAPORE
 //========================================================================
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="Singapore",Channel 5
@@ -15313,7 +15313,7 @@ http://p1.cvtv.xyz/E2?token=live
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SPORT INT
+//Collected by @arjunfiqriadrillah01 menampilkan playlist >>> SPORT INT
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG.png" group-title="Sport Int",CBS Sports HQ (PLUTO)
@@ -15429,7 +15429,7 @@ https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> DAZN SPORT
+//Collected by @arjunfiqriadrillah01 menampilkan playlist >>> DAZN SPORT
 //========================================================================
 
 #EXTINF:-1 tvg-logo="https://rb.gy/98jmt0" group-title="Dazn Sport", DAZN 1 🇵🇹
@@ -15711,7 +15711,7 @@ https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> FOX SPORT
+//Collected by @arjunfiqriadrillah01 menampilkan playlist >>> FOX SPORT
 //========================================================================
 
 #EXTINF:-1 tvg-name="Fox Sports 1 USA" tvg-logo="https://lo1.in/us/fox33.png" group-title="Fox Sport",Fox Sports 1 USA
